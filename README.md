@@ -1,7 +1,7 @@
 # Krunker.io
 
 Unlimited FPS on Browser
-
+.bg-gray-light
 
 COPY AND PASTE THIS CODE IN A NEW .TXT FILE. SAVE THE FILE AS A .BAT FILE AND ADD IT TO YOUR DESKTOP
 
